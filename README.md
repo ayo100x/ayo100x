@@ -15,10 +15,10 @@ My current focus is expanding from frontend development into full-stack engineer
 
 ### Featured Projects
 
-**VERA**
+**VERA** -
 Commerce intelligence platform designed to help users identify products, discover alternatives, compare options, and make better purchasing decisions.
 
-**X — Social Platform**
+**X — Social Platform** -
 React-based social platform demonstrating reusable components, client-side state management, routing, interactive UI, media handling, and responsive layouts.
 
 ### Tech
