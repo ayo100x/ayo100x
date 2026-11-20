@@ -1,38 +1,52 @@
 # Ayomide Adelooye
 
-**Software Engineer | React • JavaScript • Full-Stack Development**
+**Full-Stack Software Engineer | React • TypeScript • Node.js**
 
-I build modern web applications and enjoy turning product ideas into practical software.
+I build full-stack web applications, from responsive user interfaces to backend services and data-driven functionality. My work focuses on developing practical software products, designing APIs, integrating databases, implementing authentication, and building maintainable application architectures.
 
-My current focus is expanding from frontend development into full-stack engineering, with an emphasis on APIs, databases, authentication, backend architecture, and system design.
+I enjoy working across the software development lifecycle, translating ideas and requirements into functional, well-structured applications.
 
-### Currently
+### What I Do
 
-* Building full-stack applications and product-focused projects
-* Deepening my skills in TypeScript, Node.js, PostgreSQL, and backend engineering
-* Learning how to design reliable and maintainable software systems
-* Looking for software engineering opportunities where I can contribute, learn, and grow
+- Build responsive, interactive web applications.
+- Develop backend services and RESTful APIs.
+- Design and integrate database-driven applications.
+- Implement application features, authentication, and state management.
+- Structure applications for maintainability, reliability, and scalability.
 
-### Featured Projects
+### Selected Projects
 
-**VERA** -
-Commerce intelligence platform designed to help users identify products, discover alternatives, compare options, and make better purchasing decisions.
+[**VERA**](https://github.com/ayo100x/vera)
 
-**X — Social Platform** -
-React-based social platform demonstrating reusable components, client-side state management, routing, interactive UI, media handling, and responsive layouts.
+A commerce intelligence platform focused on product discovery, style exploration, product comparisons, and purchase decision-making.
 
-### Tech
+[**wxrkspace**](https://github.com/ayo100x/wxrkspace)
 
-**Frontend:** JavaScript, React, HTML, CSS, Tailwind CSS
+A productivity workspace designed to bring task management and workflow organization into a unified application, with a focus on intuitive interactions, structured components, and a clean user experience.
 
-**Currently expanding:** TypeScript, Node.js, REST APIs, PostgreSQL, Authentication, System Design
+[**X — Social Platform**](https://github.com/ayo100x/X)
+
+A social platform built with React, featuring interactive interfaces, reusable components, client-side state management, and responsive layouts.
+
+
+### Technology Stack
+
+**Frontend:** JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS
+
+**Backend:** Node.js, REST APIs, Authentication
+
+**Database & Data:** PostgreSQL, Prisma
+
+**Tools & Workflow:** Git, GitHub, VS Code
+
+**Engineering Focus:** Full-Stack Development, API Design, Database Architecture, System Design
 
 ### Connect
 
-* Portfolio: https://ayo100x.pages.dev/
-* GitHub: https://github.com/ayo100x
-* X: https://x.com/ayo100x
+- **Portfolio:** https://ayo100x.pages.dev/
+- **GitHub:** https://github.com/ayo100x
+- **X:** https://x.com/ayo100x
 
 ---
 
-Building, learning, and shipping.
+Building software with a focus on functionality, maintainability, and good engineering.
